@@ -1,6 +1,6 @@
-# Web UI Automation Fremework
+# Web UI Automation Framework
 
-## Tujuan Web Automation Test
+## Tujuan Pengujian
 
 Bertujuan membangun kerangka kerja pengujian UI Web otomatis menggunakan Cucumber, Java, Gradle, dan Selenium. Framework ini dirancang untuk menguji fungsionalitas aplikasi web secara efisien dan konsisten melalui skenario positif, negatif, dan boundary. 
 
