@@ -1,8 +1,8 @@
-# Proyek Pengujian UI Web dengan Cucumber, Java, Gradle, dan Selenium
+# Web UI Automation Fremework
 
-## Tujuan Pengujian UI Web Automation
+## Tujuan Web Automation Test
 
-Proyek ini bertujuan membangun kerangka kerja pengujian UI Web otomatis menggunakan Cucumber, Java, Gradle, dan Selenium. Framework ini dirancang untuk menguji fungsionalitas aplikasi web secara efisien dan konsisten melalui skenario positif, negatif, dan boundary. 
+Bertujuan membangun kerangka kerja pengujian UI Web otomatis menggunakan Cucumber, Java, Gradle, dan Selenium. Framework ini dirancang untuk menguji fungsionalitas aplikasi web secara efisien dan konsisten melalui skenario positif, negatif, dan boundary. 
 
 Dengan menerapkan Page Object Model (POM), pengujian menjadi lebih terstruktur dan mudah dipelihara. Cucumber digunakan untuk menulis skenario uji dalam bahasa alami (Gherkin), Selenium untuk interaksi dengan browser, Java sebagai bahasa utama, dan Gradle untuk manajemen dependensi serta otomatisasi proses pengujian.
 
